@@ -73,7 +73,7 @@ All data merging and harmonization were performed using R scripts (details of th
 
 - **Corruption**: Perceptions of corruption (stored as numeric). 
 
-##Benefits and Motivations
+## Benefits and Motivations
 
 Merging and harmonizing the datasets enabled us to:
 
