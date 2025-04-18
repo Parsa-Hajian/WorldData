@@ -32,7 +32,7 @@ You can install them by running:
 install.packages(c("dplyr", "readr", "ggplot2", "sf", "rnaturalearth", "rnaturalearthdata", "viridis", "shiny", "tidyr", "GGally"))
 ```
 
-##Shiny App
+## Shiny App
 
 The Shiny application allows users to explore global patterns in happiness indicators. Users can:
 
