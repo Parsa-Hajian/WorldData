@@ -42,7 +42,7 @@ The Shiny application allows users to explore global patterns in happiness indic
 
 - **View a Global Map**: The app displays a world choropleth map that updates according to the selected feature and time period, highlighting geographical patterns in the data. 
 
-##Data Preparation
+## Data Preparation
 
 All data merging and harmonization were performed using R scripts (details of these steps are described in our report). The final merged dataset (merged_data.csv) includes the following columns:
 
